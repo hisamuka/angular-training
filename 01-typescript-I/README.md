@@ -2,7 +2,7 @@
 - `npm install typescript --save`
 
 # 2. General Notes
-## Class 1
+#### Class 1
 - Added file `tsconfig.json` that contains the settings of TypeScript (which files to compile, output directory, etc)
 - Added the option `"noEmitOnError": true` in `tsconfig.json`
     - Thus, JS codes are only generated from TS codes when there is no **compilation errors**.
@@ -18,7 +18,7 @@
 - Open the view/page: `app/index.html`
 
 
-## Class 2
+#### Class 2
 - By default, if we don't declare types in Typescript, it assumes the implicit type `any`
 - One way to force types is to add the following compiler option in `tsconfig.json`: `"noImplicitAny": true`
 
@@ -58,7 +58,7 @@ class NegociacaoController {
     }
 ```
 
-## Class 3
+#### Class 3
 ```
     // Similar codes
     private _negociacoes: Array<Negociacao> = [];
@@ -73,3 +73,31 @@ class NegociacaoController {
         return [].concat(this._negociacoes);
     }
 ```
+
+#### Class 4
+- Abstract Classes
+- **Generics = Template Classes**
+```
+class View<T> {
+...
+}
+
+class NegociacoesView extends View<Negociacoes> {
+...
+}
+
+// We still could use more than one Template
+class GenericDAO<T, K> {
+...
+}
+```
+
+- Abstract Classes and Methods
+```
+abstract class View<T> {
+
+abstract template(model: T): string;
+...
+}
+```
+
