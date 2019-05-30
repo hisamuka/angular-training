@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9163607-a0e0-4d4e-ab9c-ba0316bf0939" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01-typescript-I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-typescript-I/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../04-alurabank.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/css/bootstrap-theme.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/css/bootstrap.css" beforeDir="false" />
@@ -95,6 +95,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -122,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559209309034</updated>
-      <workItem from="1559209310140" duration="603000" />
+      <workItem from="1559209310140" duration="1207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603000" />
+    <option name="totallyTimeSpent" value="1207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
