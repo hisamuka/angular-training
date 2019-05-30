@@ -1,16 +1,16 @@
 {
-  "name": "01-typescript-i",
+  "name": "alurabank",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "../node_modules/.bin/tsc",
-    "start": "../node_modules/.bin/tsc -w"
+    "compile": "tsc",
+    "start": "tsc -w"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^3.5.1"
+  "devDependencies": {
+    "typescript": "^2.3.2"
   }
 }
