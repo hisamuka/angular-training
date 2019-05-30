@@ -57,3 +57,19 @@ class NegociacaoController {
         this._inputValor = <HTMLInputElement>document.querySelector('#valor');
     }
 ```
+
+## Class 3
+```
+    // Similar codes
+    private _negociacoes: Array<Negociacao> = [];
+    private _negociacoes: Negociacao[] = [];
+    
+    // Similar
+    private _negociacoes: Negociacoes = new Negociacoes();
+    private _negociacoes = new Negociacoes(); // the type is infered
+    
+    // Always define the return type of a function (even if it is void)
+    paraArray(): Negociacao[] {
+        return [].concat(this._negociacoes);
+    }
+```

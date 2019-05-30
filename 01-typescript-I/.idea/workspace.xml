@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec1b793b-1da7-4b6d-9919-587fb9588eed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurabank/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alurabank/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurabank/app/js/controllers/NegociacaoController.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurabank/app/js/controllers/NegociacaoController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurabank/app/ts/controllers/NegociacaoController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alurabank/app/ts/controllers/NegociacaoController.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,57 +18,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alurabank/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1064">
-              <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="364">
-                <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <first_editor relative-caret-position="649">
+                <caret line="73" selection-start-line="73" selection-end-line="73" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alurabank/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alurabank/app/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" lean-forward="true" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alurabank/app/ts/controllers/NegociacaoController.ts">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,35 +81,6 @@
               <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
               <item name="alurabank" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-              <item name="alurabank" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-              <item name="alurabank" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-              <item name="alurabank" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ts" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-              <item name="alurabank" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ts" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -190,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559201854642</updated>
-      <workItem from="1559201855837" duration="2914000" />
+      <workItem from="1559201855837" duration="3398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2914000" />
+    <option name="totallyTimeSpent" value="3398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -232,22 +163,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alurabank/app/ts/controllers/NegociacaoController.ts">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alurabank/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alurabank/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -256,18 +187,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts">
+    <entry file="file://$PROJECT_DIR$/alurabank/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" lean-forward="true" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="1102">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="364">
-            <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <first_editor relative-caret-position="649">
+            <caret line="73" selection-start-line="73" selection-end-line="73" />
           </first_editor>
           <second_editor />
         </state>
