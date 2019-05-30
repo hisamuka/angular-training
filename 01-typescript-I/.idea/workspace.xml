@@ -5,10 +5,14 @@
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../04-alurabank.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alurabank/app/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/js/controllers/NegociacaoController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/js/controllers/NegociacaoController.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/js/views/NegociacoesView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/js/views/NegociacoesView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alurabank/app/ts/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/ts/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/ts/controllers/NegociacaoController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/ts/controllers/NegociacaoController.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/ts/views/NegociacoesView.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/app/ts/views/NegociacoesView.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alurabank/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alurabank/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../alurabank/tsconfig.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="649">
-                <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+              <first_editor relative-caret-position="573">
+                <caret line="117" selection-start-line="117" selection-end-line="117" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559201854642</updated>
-      <workItem from="1559201855837" duration="3840000" />
+      <workItem from="1559201855837" duration="4631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3840000" />
+    <option name="totallyTimeSpent" value="4631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -200,8 +204,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="649">
-            <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+          <first_editor relative-caret-position="573">
+            <caret line="117" selection-start-line="117" selection-end-line="117" />
           </first_editor>
           <second_editor />
         </state>

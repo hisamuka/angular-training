@@ -1,5 +1,6 @@
 # 1. Dependencies
 - `npm install typescript --save`
+- `npm install @types/jquery --save`
 
 # 2. General Notes
 #### Class 1
@@ -100,4 +101,18 @@ abstract template(model: T): string;
 ...
 }
 ```
+
+### Class 5
+- The problem with using libraries that are globally scoped and not created with TypeScript
+- "Shut up" the compiler com `declare var`.
+- The disadvantages of `declare var` with type `any`.
+- The role of **TypeScript Definition**.
+    - As example, we used the JQuery library inside our typescript codes.
+    - We have problems concerning the true datatypes returned by the methods of JQuery (or any other libraries)
+    - Thus the creators of a library can create a file called **TypeScript Declaration File**.
+    - This file has information of the function and method names, and their types to be used by TypeScript.
+    - Thus, based on this file, TypeScript will be able to apply static checking.
+    - We can then **remove** the `declare var` used to "shut up" the compiler.
+- Removing comments during compilation:
+    - Just add the compiler option: `"removeComments": true` in `tsconfig.json`
 
