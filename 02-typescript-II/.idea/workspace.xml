@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec1b793b-1da7-4b6d-9919-587fb9588eed" name="Default Changelist" comment="">
+    <list default="true" id="a9163607-a0e0-4d4e-ab9c-ba0316bf0939" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01-typescript-I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-typescript-I/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../04-alurabank.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/css/bootstrap-theme.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alurabank/app/css/bootstrap.css" beforeDir="false" />
@@ -35,7 +36,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="573">
+                <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -43,10 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/tsconfig.json" />
-        <option value="$PROJECT_DIR$/alurabank/app/index.html" />
-        <option value="$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -54,10 +64,7 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/01-typescript-I.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -73,36 +80,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01-typescript-I" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01-typescript-I" type="462c0819:PsiDirectoryNode" />
-              <item name="alurabank" type="462c0819:PsiDirectoryNode" />
+              <item name="02-typescript-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-typescript-II" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/alurabank" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,25 +117,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec1b793b-1da7-4b6d-9919-587fb9588eed" name="Default Changelist" comment="" />
-      <created>1559201854642</created>
+      <changelist id="a9163607-a0e0-4d4e-ab9c-ba0316bf0939" name="Default Changelist" comment="" />
+      <created>1559209309034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559201854642</updated>
-      <workItem from="1559201855837" duration="4870000" />
+      <updated>1559209309034</updated>
+      <workItem from="1559209310140" duration="603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4870000" />
+    <option name="totallyTimeSpent" value="603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13107823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" weight="0.32899868" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -160,49 +156,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alurabank/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/ts/controllers/NegociacaoController.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/ts/models/Negociacao.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alurabank/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="573">
-            <caret line="117" selection-start-line="117" selection-end-line="117" />
+            <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
           </first_editor>
           <second_editor />
         </state>
